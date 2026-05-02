@@ -1,36 +1,104 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# 🚀 Arshad Hossain — Portfolio
 
-## Getting Started
+🌐 Live Site: https://arshad-hossain-portfolio.netlify.app/
 
-First, run the development server:
+---
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 👋 About Me
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Hi, I’m **Arshad Hossain**, a passionate **Full Stack Web Developer** from Bangladesh.
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+I build modern, responsive, and high-performance web applications using the latest web technologies. I enjoy turning ideas into real-world projects with clean and scalable code.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+## 💻 Tech Stack
 
-To learn more about Next.js, take a look at the following resources:
+### Frontend
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- Next.js
+- React.js
+- JavaScript (ES6+)
+- HTML5
+- CSS3
+- Tailwind CSS
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+### Backend
 
-## Deploy on Vercel
+- Node.js
+- Express.js
+- MongoDB
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+### Tools & Platforms
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+- Git & GitHub
+- Vercel
+- Netlify
+- VS Code
+- REST APIs
+- Framer Motion
+
+---
+
+## 📂 Featured Projects
+
+### 🔹 Category App
+
+https://category-a8-orange.vercel.app/
+
+### 🔹 Keen Keeper
+
+https://a7-keenkeeper.vercel.app/
+
+### 🔹 DigiTools Platform
+
+https://digitools-platform-arshad.netlify.app/
+
+---
+
+## ⚡ Portfolio Features
+
+- Fully responsive design (mobile + desktop)
+- Modern UI/UX design
+- Smooth animations using Framer Motion
+- Interactive project showcase
+- GitHub & LinkedIn integration
+- Resume download option
+
+---
+
+## 🚀 Built With
+
+- Next.js (App Router)
+- Tailwind CSS (v4)
+- Framer Motion
+- JavaScript (No TypeScript)
+- MongoDB
+
+---
+
+## 📈 What I Do
+
+- Full Stack Web Development
+- Frontend UI/UX Design
+- Backend API Development
+- Database Management (MongoDB)
+- Deployment (Vercel / Netlify)
+
+---
+
+## 📫 Connect With Me
+
+- GitHub: https://github.com/Arshad-Hossain
+- LinkedIn: https://www.linkedin.com/in/mohammad-arshad-hossain/
+- Portfolio: https://arshad-hossain-portfolio.netlify.app/
+
+---
+
+## 🎯 Goals
+
+To grow as a **Full Stack Developer**, build impactful real-world applications, and contribute to modern web technologies.
+
+---
+
+⭐ If you like my work, feel free to star my repositories!
