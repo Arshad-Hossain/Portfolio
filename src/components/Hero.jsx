@@ -51,7 +51,7 @@ export default function Hero() {
 
             <a
               className="bg-blue-600 px-5 py-2 rounded-xl"
-              href="https://linkedin.com"
+              href="https://linkedin.com/in/mohammad-arshad-hossain"
             >
               LinkedIn
             </a>
