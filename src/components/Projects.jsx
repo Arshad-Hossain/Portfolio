@@ -1,6 +1,6 @@
 export default function Projects() {
   const projects = [
-    "https://category-a8-orange.vercel.app/",
+    "https://skillsphere-omega.vercel.app/",
     "https://a7-keenkeeper.vercel.app/",
     "https://digitools-platform-arshad.netlify.app/",
   ];
