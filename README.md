@@ -42,9 +42,9 @@ I build modern, responsive, and high-performance web applications using the late
 
 ## 📂 Featured Projects
 
-### 🔹 Category App
+### 🔹 SkillSphere App
 
-https://category-a8-orange.vercel.app/
+https://skillsphere-omega.vercel.app/
 
 ### 🔹 Keen Keeper
 
