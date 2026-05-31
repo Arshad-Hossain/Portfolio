@@ -6,7 +6,7 @@
 
 ## 👋 About Me
 
-Hi, I’m **Arshad Hossain**, a passionate **Full Stack Web Developer** from Bangladesh.
+Hi, I’m **Arshad Hossain**, a passionate **Full Stack Web Developer** from USA.
 
 I build modern, responsive, and high-performance web applications using the latest web technologies. I enjoy turning ideas into real-world projects with clean and scalable code.
 
@@ -32,7 +32,6 @@ I build modern, responsive, and high-performance web applications using the late
 ### Tools & Platforms
 
 - Git & GitHub
-- Vercel
 - Netlify
 - VS Code
 - REST APIs
